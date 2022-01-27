@@ -2,5 +2,4 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
-Use the left arrow to go back!
+"To bake apple pie from scratch you must first invent the universe"Use the left arrow to go back!
